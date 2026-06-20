@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Moawya',
 
-  projectId: '81axmp9d',
+  projectId: 'kfm1pktb',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
