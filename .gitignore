@@ -1,0 +1,11 @@
+# IDE / Agent directories
+.claude/
+.vscode/
+
+# Node modules and temporary files at root
+node_modules/
+dist/
+build/
+.env*
+*.log
+.DS_Store

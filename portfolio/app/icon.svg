@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#080808"/>
+
+  <!-- Outer border -->
+  <rect x="5" y="5" width="90" height="90" fill="none" stroke="#c9a84c" stroke-width="1.5"/>
+
+  <!-- Film perforation notches — corners -->
+  <rect x="0"  y="18" width="5"  height="10" fill="#080808"/>
+  <rect x="0"  y="72" width="5"  height="10" fill="#080808"/>
+  <rect x="95" y="18" width="5"  height="10" fill="#080808"/>
+  <rect x="95" y="72" width="5"  height="10" fill="#080808"/>
+
+  <!-- M letterform -->
+  <text
+    x="50" y="70"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="62"
+    font-weight="400"
+    fill="#c9a84c"
+    text-anchor="middle"
+    dominant-baseline="auto"
+  >M</text>
+</svg>
